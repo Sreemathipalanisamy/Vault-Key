@@ -21,10 +21,3 @@ A simple Java console-based application that generates strong, random passwords 
 
 - Java installed on your system (JDK 8 or higher)
 - A terminal or IDE like VS Code, Eclipse, or IntelliJ
-
-### How to Run
-
-``sh
-javac PasswordGenerator.java
-java PasswordGenerator
-``
