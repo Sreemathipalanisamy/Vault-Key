@@ -2,7 +2,6 @@
 
 A simple Java console-based application that generates strong, random passwords based on user-defined criteria. The user can specify the desired length of the password, and the generator will produce a secure password using uppercase letters, lowercase letters, numbers, and special characters.
 
----
 
 ## Features
 
@@ -13,7 +12,6 @@ A simple Java console-based application that generates strong, random passwords 
 - User-defined password length
 - Simple to use and run
 
----
 
 ## Getting Started
 
